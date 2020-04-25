@@ -1,0 +1,23 @@
+.pytonuch{
+    display: block;
+    margin: 0 auto;
+}
+body{
+    background-color: yellowgreen;
+    background-image: url(./img/but.png);
+    font-family: "Comic Sans MS", sans-serif;
+}
+.game-over{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    width: 608px;
+    height: 608px;
+    background-image: url(./img/ground.png);
+    margin: auto;
+}
+p{
+    margin: 10px;
+}
